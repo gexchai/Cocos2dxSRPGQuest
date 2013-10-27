@@ -13,5 +13,6 @@
 
 ![開発中の画面](https://raw.github.com/kyokomi/Cocos2dxSRPGQuest/master/work/20131020_17-50-54.png)
 
-
+## メモ
+年内くらいにはまともに動くものに仕上げたい。というマイルストーンを作成
 
